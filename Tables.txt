@@ -1,0 +1,30 @@
+Tables for Orphanage Management System
+
+*User
+	Uid
+	Name
+	Contact
+	Address
+	Pin-code
+	Email
+
+
+*Orphan
+	Oid
+	Name
+	Age
+	Gender
+	Medical Status
+
+
+*Organization
+	Name
+	Address
+	Pin-code	
+ 	Contact
+	Email
+	
+*Admin
+	Aid
+	Name
+	Designation
